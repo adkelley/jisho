@@ -1,0 +1,11 @@
+{
+  "name": "jisho",
+  "version": "1.0.0",
+  "description": "Use the jisho api to retrieve english, japanese translations, or part-of-speech for a japanese kanji compound.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Kelley",
+  "license": "ISC"
+}
